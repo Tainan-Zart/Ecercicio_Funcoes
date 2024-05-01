@@ -1,0 +1,14 @@
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\bin\Debug\net8.0\Exercicio.5.exe
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\bin\Debug\net8.0\Exercicio.5.deps.json
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\bin\Debug\net8.0\Exercicio.5.runtimeconfig.json
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\bin\Debug\net8.0\Exercicio.5.dll
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\bin\Debug\net8.0\Exercicio.5.pdb
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\obj\Debug\net8.0\Exercicio.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\obj\Debug\net8.0\Exercicio.5.AssemblyInfoInputs.cache
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\obj\Debug\net8.0\Exercicio.5.AssemblyInfo.cs
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\obj\Debug\net8.0\Exercicio.5.csproj.CoreCompileInputs.cache
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\obj\Debug\net8.0\Exercicio.5.dll
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\obj\Debug\net8.0\refint\Exercicio.5.dll
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\obj\Debug\net8.0\Exercicio.5.pdb
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\obj\Debug\net8.0\Exercicio.5.genruntimeconfig.cache
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.5\Exercicio.5\obj\Debug\net8.0\ref\Exercicio.5.dll

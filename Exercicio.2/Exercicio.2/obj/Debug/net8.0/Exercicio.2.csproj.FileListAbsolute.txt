@@ -1,0 +1,14 @@
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\bin\Debug\net8.0\Exercicio.2.exe
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\bin\Debug\net8.0\Exercicio.2.deps.json
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\bin\Debug\net8.0\Exercicio.2.runtimeconfig.json
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\bin\Debug\net8.0\Exercicio.2.dll
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\bin\Debug\net8.0\Exercicio.2.pdb
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\obj\Debug\net8.0\Exercicio.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\obj\Debug\net8.0\Exercicio.2.AssemblyInfoInputs.cache
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\obj\Debug\net8.0\Exercicio.2.AssemblyInfo.cs
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\obj\Debug\net8.0\Exercicio.2.csproj.CoreCompileInputs.cache
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\obj\Debug\net8.0\Exercicio.2.dll
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\obj\Debug\net8.0\refint\Exercicio.2.dll
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\obj\Debug\net8.0\Exercicio.2.pdb
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\obj\Debug\net8.0\Exercicio.2.genruntimeconfig.cache
+C:\Users\Tainan\Desktop\Exercicios_Funcão\Exercicio.2\Exercicio.2\obj\Debug\net8.0\ref\Exercicio.2.dll
